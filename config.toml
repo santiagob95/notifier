@@ -1,0 +1,11 @@
+[movie]
+title_aliases = [
+  "Dune: Part Three", "Dune: Part 3", "Dune: Part III",
+  "Dune: Parte Tres", "Dune: Parte 3", "Dune: Parte III",
+  "Duna: Parte Tres", "Duna: Parte 3", "Duna: Parte III",
+  "Dune 3", "Duna 3",
+]
+
+[cinema]
+house_id = 3250
+cinema_id = 18

@@ -1,0 +1,33 @@
+{
+  "id": 6234,
+  "name": "Godzilla Minus Zero",
+  "days": {
+    "2026-11-03": [
+      {
+        "id": 18,
+        "name": "IMAX Theatre (Norcenter)",
+        "ewaveId": 3204,
+        "formats": [
+          {
+            "formatDescription": "IMAX-Subtitulado",
+            "showId": "87639A",
+            "performances": [
+              {
+                "performanceId": 572772,
+                "showTime": "13:50"
+              },
+              {
+                "performanceId": 572773,
+                "showTime": "19:40"
+              },
+              {
+                "performanceId": 572794,
+                "showTime": "22:35"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

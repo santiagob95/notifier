@@ -1,0 +1,26 @@
+# Python y herramientas locales
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Secretos y capturas privadas
+.env
+.env.*
+!.env.example
+secrets/
+*.har
+cookies*.json
+storage_state*.json
+
+# Artefactos locales
+*.log
+.DS_Store
+Thumbs.db
+
+# Estado local (GitHub lo guarda en la rama monitor-state)
+.local/
+*.tmp

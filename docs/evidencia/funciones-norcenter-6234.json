@@ -1,0 +1,43 @@
+{
+  "id": 6234,
+  "name": "Godzilla Minus Zero",
+  "days": {
+    "2026-11-03": [
+      {
+        "id": 13,
+        "name": "Showcase Norcenter",
+        "ewaveId": 3204,
+        "formats": [
+          {
+            "formatDescription": "2D-Subtitulado",
+            "showId": "87637A",
+            "performances": [
+              {
+                "performanceId": 572776,
+                "showTime": "16:50"
+              },
+              {
+                "performanceId": 572777,
+                "showTime": "19:45"
+              },
+              {
+                "performanceId": 572778,
+                "showTime": "22:40"
+              }
+            ]
+          },
+          {
+            "formatDescription": "2D-Doblada",
+            "showId": "87636A",
+            "performances": [
+              {
+                "performanceId": 572775,
+                "showTime": "14:00"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

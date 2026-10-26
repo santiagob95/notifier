@@ -1,0 +1,11 @@
+{
+  "observed_at_utc": "2026-10-26T22:37:21.277563+00:00",
+  "method": "GET",
+  "url": "https://api.voyalcine.net/films/6234/tree/3250",
+  "status": 200,
+  "client": "Python urllib.request; sin cookies ni Authorization",
+  "headers": {
+    "Date": "Mon, 26 Oct 2026 22:37:21 GMT",
+    "Content-Type": "application/json; charset=utf-8"
+  }
+}
