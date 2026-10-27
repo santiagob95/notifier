@@ -147,7 +147,7 @@ def test_telegram_unknown_results_remain_uncertain(reply):
 def test_workflow_serializes_and_uses_secret_env():
     root = Path(__file__).resolve().parents[1]
     workflow = yaml.load((root / ".github/workflows/monitor.yml").read_text(encoding="utf-8-sig"), Loader=yaml.BaseLoader)
-    assert workflow["on"]["schedule"][0]["cron"] == "7,37 * * * *"
+    assert workflow["on"]["schedule"][0]["cron"] == "8,38 * * * *"
     assert workflow["concurrency"] == {"group": "imax-ticket-monitor", "cancel-in-progress": "false"}
     assert workflow["jobs"]["monitor"]["permissions"]["contents"] == "write"
     step = workflow["jobs"]["monitor"]["steps"][-1]
