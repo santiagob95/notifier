@@ -3,7 +3,7 @@ name: Monitor IMAX
 on:
   schedule:
     # UTC; cada 30 minutos evitando el comienzo de la hora.
-    - cron: '7,37 * * * *'
+    - cron: '8,38 * * * *'
   workflow_dispatch:
     inputs:
       mode:
